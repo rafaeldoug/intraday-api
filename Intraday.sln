@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intraday.API", "Intraday.API\Intraday.API.csproj", "{22C02753-F6A1-4751-AA13-6FE10842D575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intraday.Data", "Intraday.Data\Intraday.Data.csproj", "{5FC55E59-9882-4FB3-8F81-4269F1BC6F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C02753-F6A1-4751-AA13-6FE10842D575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C02753-F6A1-4751-AA13-6FE10842D575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C02753-F6A1-4751-AA13-6FE10842D575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C02753-F6A1-4751-AA13-6FE10842D575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC55E59-9882-4FB3-8F81-4269F1BC6F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC55E59-9882-4FB3-8F81-4269F1BC6F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC55E59-9882-4FB3-8F81-4269F1BC6F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC55E59-9882-4FB3-8F81-4269F1BC6F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE475D4-CAAD-47F4-9BAB-326AACBB7F48}
+	EndGlobalSection
+EndGlobal
